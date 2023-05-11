@@ -2,6 +2,9 @@
 __pycache__/
 *$py.class
 
+# package
+src/ors_booking.egg-info/
+
 # Unit test / coverage reports
 coverage.xml
 .pytest_cache/
