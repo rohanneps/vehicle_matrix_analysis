@@ -1,0 +1,4 @@
+[console_scripts]
+next_version = build.build_targets:next_version [build]
+unit_test = build.build_targets:unit_test [build]
+
