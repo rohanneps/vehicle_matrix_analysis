@@ -12,7 +12,8 @@ coverage.xml
 # Files
 **.png
 **.npy
+**.log
 
 env/
 venv/
-ENV/
+
