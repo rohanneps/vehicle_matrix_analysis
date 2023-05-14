@@ -11,6 +11,7 @@ class VehicleDataManager:
     """
     Handle operations on vehicle data
     """
+
     ROOT_DIR = "."
     # logging
     LOG_FILE_NAME: str = os.path.join(ROOT_DIR, "process.log")
